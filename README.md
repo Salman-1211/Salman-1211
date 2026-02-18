@@ -1,99 +1,87 @@
-👨‍💻 Salman Mulani
+# 👨‍💻 Salman Mulani
 
-📍 Pune, India
-📧 mulanisalman070@gmail.com
+📍 **Pune, India**  
+📧 **mulanisalman070@gmail.com**  
+💼 **Java Backend Developer | Spring Boot | Microservices**
 
-💼 Java Backend Developer | Spring Boot | Microservices
+---
 
-🧑‍💼 ABOUT ME
+## 🧑‍💼 About Me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💡 Passionate Java Backend Developer with hands-on experience in
-Spring Boot, Microservices, REST APIs, and JWT-based security.
+💡 Passionate **Java Backend Developer** with hands-on experience in  
+**Spring Boot, Microservices, REST APIs, and JWT-based security**.
 
-🚀 I enjoy building scalable backend systems, solving real-world problems,
-and working on production-grade applications.
+🚀 I enjoy building **scalable backend systems**, solving real-world problems,  
+and working on **production-grade applications**.
 
-💼 EXPERIENCE
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 💼 Experience
 
-🚀 Software Engineer
+### 🚀 Software Engineer  
+**Wipro Limited** | Jun 2025 – Present
 
-Wipro Limited | Jun 2025 – Present
+- ✨ Developing backend services using **Java & Spring Boot**
+- ⚡ Improved API performance by **~30%** through optimization
+- 🧪 Wrote unit tests using **JUnit & Mockito**
+- 🔧 Debugged and resolved production issues
 
-✨ Developing backend services using Java & Spring Boot
-⚡ Improved API performance by ~30% through optimization
-🧪 Wrote unit tests using JUnit & Mockito
-🔧 Debugged and resolved production issues
+**🛠 Tech Stack:**  
+`Java` `Spring Boot` `REST APIs` `PostgreSQL` `JUnit` `Maven`
 
-🛠 Tech Stack:
-Java Spring Boot REST APIs PostgreSQL JUnit Maven
+---
 
-🔧 Java Backend Developer
+### 🔧 Java Backend Developer  
+**Cognizant** | Oct 2021 – Apr 2024
 
-Cognizant | Oct 2021 – Apr 2024
+- 🛠 Built scalable **Spring Boot microservices**
+- 🚀 Designed REST APIs improving data access speed by **40%**
+- 🔒 Implemented server-side validations & security
+- 📦 Optimized database queries using **Hibernate & JPA**
+- ☁️ Worked with **Docker & Kubernetes**
 
-🛠 Built scalable Spring Boot microservices
-🚀 Designed REST APIs improving data access speed by 40%
-🔒 Implemented server-side validations & security
-📦 Optimized database queries using Hibernate & JPA
-☁️ Worked with Docker & Kubernetes for deployment
+**🛠 Tech Stack:**  
+`Java` `Spring Boot` `Hibernate` `JPA` `MySQL` `Docker` `Kubernetes`
 
-🛠 Tech Stack:
-Java Spring Boot Hibernate JPA MySQL Docker Kubernetes
+---
 
-🎓 EDUCATION
+## 🎓 Education
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎓 B.Tech – Computer Science & Engineering
-SVERI’s College of Engineering, Pandharpur
-📊 75.3% | 2017 – 2021
+🎓 **B.Tech – Computer Science & Engineering**  
+SVERI’s College of Engineering, Pandharpur  
+📊 **75.3%** | 2017 – 2021
 
-📚 PROJECTS
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📚 Projects
 
-💡 CodeSage AI – AI Powered Code Review System
-
+### 💡 CodeSage AI – AI Powered Code Review System
 🔗 https://github.com/Salman-1211/codesage-ai
 
-🚀 Microservices-based code review platform
-🔐 JWT Authentication with API Gateway
-🧠 Rule-based + AI-based code analysis
-🗄 PostgreSQL integration
+- 🚀 Microservices-based code review platform
+- 🔐 JWT Authentication with **API Gateway**
+- 🧠 Rule-based + AI-based code analysis
+- 🗄 PostgreSQL integration
 
-🛠 Tech Stack:
-Java Spring Boot Spring Cloud Gateway JWT PostgreSQL
+**🛠 Tech Stack:**  
+`Java` `Spring Boot` `Spring Cloud Gateway` `JWT` `PostgreSQL`
 
+---
 
-🛠️ SKILLS
+## 🛠️ Skills
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 💻 Programming
+`Java` `SQL` `JavaScript (Basic)` `Python (Basic)`
 
-💻 Programming
+### 🌐 Backend & Frameworks
+`Spring Boot` `Spring MVC` `Spring Security` `REST APIs` `Hibernate` `JPA`
 
-Java SQL JavaScript (Basic) Python (Basic)
+### 🗄️ Databases & Tools
+`PostgreSQL` `MySQL` `Git` `GitHub` `Maven` `Postman` `Docker` `IntelliJ IDEA`
 
-🌐 Backend & Frameworks
+---
 
-Spring Boot Spring MVC Spring Security REST APIs Hibernate JPA
+## 📈 Problem Solving
 
-🗄️ Databases & Tools
-
-PostgreSQL MySQL Git GitHub Maven Postman Docker IntelliJ IDEA
-
-📈 PROBLEM SOLVING
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧠 Solved 500+ DSA problems across platforms
-🏆 LeetCode | GeeksforGeeks | HackerRank
-
-🌐 CONNECT WITH ME
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔗 GitHub: https://github.com/Salman-1211
-
-🔗 LinkedIn: https://www.linkedin.com/in/yeahsm/
-
-✨ “Passionate about building scalable, secure, and high-performance backend systems.”
+🧠 Solved **500+ DSA problems** across platforms  
+🏆 LeetCode | GeeksforGeeks | H
