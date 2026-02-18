@@ -1,83 +1,99 @@
 👨‍💻 Salman Mulani
 
-📍 Pune, India | 📧 mulanisalman070@gmail.com
- | 💼 Java Backend Developer
+📍 Pune, India
+📧 mulanisalman070@gmail.com
 
-💼 Experience
+💼 Java Backend Developer | Spring Boot | Microservices
+
+🧑‍💼 ABOUT ME
+
+━━━━━━━━━━━━━━━━━━━━━━━
+💡 Passionate Java Backend Developer with hands-on experience in
+Spring Boot, Microservices, REST APIs, and JWT-based security.
+
+🚀 I enjoy building scalable backend systems, solving real-world problems,
+and working on production-grade applications.
+
+💼 EXPERIENCE
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Software Engineer
 
-Wipro Limited | Jun 2025 – Present | India
+Wipro Limited | Jun 2025 – Present
 
-✨ Developing backend services using Java & Spring Boot in a microservices architecture.
-⚡ Improved API response time by ~30% through query optimization and async processing.
-🧪 Wrote unit tests using JUnit & Mockito, improving code reliability and coverage.
-🔧 Worked on debugging production issues and ensuring system stability.
+✨ Developing backend services using Java & Spring Boot
+⚡ Improved API performance by ~30% through optimization
+🧪 Wrote unit tests using JUnit & Mockito
+🔧 Debugged and resolved production issues
 
-Tech Stack: Java, Spring Boot, REST APIs, JPA, PostgreSQL, JUnit, Maven
+🛠 Tech Stack:
+Java Spring Boot REST APIs PostgreSQL JUnit Maven
 
 🔧 Java Backend Developer
 
-Cognizant | Oct 2021 – Apr 2024 | Pune
+Cognizant | Oct 2021 – Apr 2024
 
-🛠 Designed and developed scalable Spring Boot microservices supporting large user bases.
-🚀 Built REST APIs for multiple internal systems, improving data retrieval speed by 40%.
-🔒 Implemented server-side validations and security checks, reducing vulnerabilities.
-📦 Worked with Hibernate & JPA, optimizing database performance by ~30%.
-☁️ Deployed services using Docker & Kubernetes, achieving high availability.
+🛠 Built scalable Spring Boot microservices
+🚀 Designed REST APIs improving data access speed by 40%
+🔒 Implemented server-side validations & security
+📦 Optimized database queries using Hibernate & JPA
+☁️ Worked with Docker & Kubernetes for deployment
 
-Tech Stack: Java, Spring Boot, Hibernate, JPA, MySQL, Docker, Kubernetes
+🛠 Tech Stack:
+Java Spring Boot Hibernate JPA MySQL Docker Kubernetes
 
-🎓 Education
+🎓 EDUCATION
 
+━━━━━━━━━━━━━━━━━━━━━━━
 🎓 B.Tech – Computer Science & Engineering
-SVERI’s College of Engineering, Pandharpur | 2017 – 2021
-📊 Percentage: 75.3%
+SVERI’s College of Engineering, Pandharpur
+📊 75.3% | 2017 – 2021
 
-📚 Personal Projects
+📚 PROJECTS
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 💡 CodeSage AI – AI Powered Code Review System
 
-🔗 GitHub: https://github.com/Salman-1211/codesage-ai
+🔗 https://github.com/Salman-1211/codesage-ai
 
-🚀 A microservices-based application for automated code review and AI analysis.
-🔐 Implemented JWT-based authentication with Spring Cloud API Gateway.
-🧠 Built rule-based and AI-powered review services.
-🗄 Integrated PostgreSQL for persistent storage.
+🚀 Microservices-based code review platform
+🔐 JWT Authentication with API Gateway
+🧠 Rule-based + AI-based code analysis
+🗄 PostgreSQL integration
 
-Tech Stack: Java, Spring Boot, Spring Cloud Gateway, JWT, PostgreSQL, Maven
+🛠 Tech Stack:
+Java Spring Boot Spring Cloud Gateway JWT PostgreSQL
 
 
-🛠️ Skills
-💻 Programming Languages
+🛠️ SKILLS
 
-Java, SQL, JavaScript (Basics), Python (Basics)
+━━━━━━━━━━━━━━━━━━━━━━━
 
-🌐 Backend Technologies
+💻 Programming
 
-Spring Boot, Spring MVC, Spring Security, REST APIs, Hibernate, JPA
+Java SQL JavaScript (Basic) Python (Basic)
+
+🌐 Backend & Frameworks
+
+Spring Boot Spring MVC Spring Security REST APIs Hibernate JPA
 
 🗄️ Databases & Tools
 
-PostgreSQL, MySQL, Git, GitHub, Maven, Postman, Docker, IntelliJ IDEA
+PostgreSQL MySQL Git GitHub Maven Postman Docker IntelliJ IDEA
 
-🔍 Core Competencies
+📈 PROBLEM SOLVING
 
-Microservices Architecture, API Design, JWT Authentication, System Design Basics,
-Problem Solving, SDLC, Debugging & Production Support
-
-📈 Problem Solving
-
+━━━━━━━━━━━━━━━━━━━━━━━
 🧠 Solved 500+ DSA problems across platforms
+🏆 LeetCode | GeeksforGeeks | HackerRank
 
-LeetCode
+🌐 CONNECT WITH ME
 
-GeeksforGeeks
-
-HackerRank
-
-🌐 Socials
-
+━━━━━━━━━━━━━━━━━━━━━━━
 🔗 GitHub: https://github.com/Salman-1211
 
-🔗 LinkedIn: [(https://www.linkedin.com/in/yeahsm/)]
+🔗 LinkedIn: https://www.linkedin.com/in/yeahsm/
 
 ✨ “Passionate about building scalable, secure, and high-performance backend systems.”
