@@ -2,13 +2,13 @@
 
 📍 **Pune, India**  
 📧 **mulanisalman070@gmail.com**  
-💼 **Java Backend Developer | Spring Boot | Microservices**
+
 
 ---
 
 ## 💼 Experience
 
-### 🚀 Software Engineer  
+### 🚀 Software Developer  
 **Wipro Limited** | Jun 2025 – Present
 
 - ✨ Developing backend services using **Java & Spring Boot**
