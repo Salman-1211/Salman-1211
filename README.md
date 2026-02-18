@@ -70,6 +70,7 @@ SVERI’s College of Engineering, Pandharpur
 
 ### 🧠 Core Competencies
 `System Design` `Algorithms` `Problem Solving` `SDLC` `Testing`
+
 ---
 
 ## 📈 Problem Solving
