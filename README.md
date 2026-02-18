@@ -6,16 +6,6 @@
 
 ---
 
-## 🧑‍💼 About Me
-
-💡 Passionate **Java Backend Developer** with hands-on experience in  
-**Spring Boot, Microservices, REST APIs, and JWT-based security**.
-
-🚀 I enjoy building **scalable backend systems**, solving real-world problems,  
-and working on **production-grade applications**.
-
----
-
 ## 💼 Experience
 
 ### 🚀 Software Engineer  
