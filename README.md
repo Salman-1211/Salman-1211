@@ -1,7 +1,6 @@
 # 👨‍💻 Salman Mulani
 
-📍 **Pune, India**  
-📧 **mulanisalman070@gmail.com**  
+📍 **Pune, India**  📧 **mulanisalman070@gmail.com**  
 
 
 ---
@@ -69,6 +68,8 @@ SVERI’s College of Engineering, Pandharpur
 ### 🗄️ Databases & Tools
 `PostgreSQL` `MySQL` `Git` `GitHub` `Maven` `Postman` `Docker` `IntelliJ IDEA`
 
+### 🧠 Core Competencies
+`System Design` `Algorithms` `Problem Solving` `SDLC` `Testing`
 ---
 
 ## 📈 Problem Solving
