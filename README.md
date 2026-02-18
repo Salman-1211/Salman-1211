@@ -84,4 +84,15 @@ SVERI’s College of Engineering, Pandharpur
 ## 📈 Problem Solving
 
 🧠 Solved **500+ DSA problems** across platforms  
-🏆 LeetCode | GeeksforGeeks | H
+🏆 LeetCode | GeeksforGeeks | HackerRank
+
+---
+
+## 🌐 Connect With Me
+
+🔗 **GitHub:** https://github.com/Salman-1211  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yeahsm/
+
+---
+
+✨ *“Passionate about building scalable, secure, and high-performance backend systems.”*
