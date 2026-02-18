@@ -38,7 +38,7 @@
 
 🎓 **B.Tech – Computer Science & Engineering**  
 SVERI’s College of Engineering, Pandharpur  
-📊 **75.3%** | 2017 – 2021
+📊 **70.7%** | 2017 – 2021
 
 ---
 
